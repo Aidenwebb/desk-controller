@@ -2912,8 +2912,8 @@
     <CommonAPP>
       <SelectID>0</SelectID>
       <K id="1">
-        <K1 Show="1" Motid="1" id="1" Actid="110">1|F13-PT|F13|124:89</K1>
-        <K2 Show="1" Motid="2" id="1" Actid="111">1|F14|F14|125:90</K2>
+        <K1 Show="1" Motid="1" id="1" Actid="110">1|F13 (Window Left)|F13|124:89</K1>
+        <K2 Show="1" Motid="2" id="1" Actid="111">1|F14 (Window-Right)|F14|125:90</K2>
         <K3 Show="1" Motid="3" id="1" Actid="24">1|F15|F15|126:91</K3>
         <K4 Show="1" Motid="4" id="1" Actid="201">1|F16|F16|127:92</K4>
         <K5 Show="1" Motid="5" id="1" Actid="204">1|F17|F17|128:93</K5>
