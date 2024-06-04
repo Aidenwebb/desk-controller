@@ -50,8 +50,6 @@ F14 & A::
     return
 }
 
-
-
 ; Compress Window right
 #HotIf GetKeyState("Alt")
 F14 & D::
@@ -70,3 +68,8 @@ F14 & D::
     return
 }
 
+; Type Clipboard Contents
+F22::
+{
+    SendInput "{Raw}" A_Clipboard
+}
